@@ -4,5 +4,7 @@ When I started learning AzureML, I followed Microsoft's official tutorials, but 
 
 This project covers everything needed to deploy a PyTorch model on AzureML, from training to deployment and inference. The tutorials break down the key concepts, making them easy to understand while encouraging hands-on experimentation. Whether you're a beginner exploring ML model deployment or an experienced user looking for a streamlined PyTorch-to-AzureML workflow, this repo has you covered! 🚀
 
+Please follow: PyTorch_AzureML.ipynb
+
 💡 This is an ongoing project! I’ll continue to add more tutorials, improvements, and best practices. Contributions, feedback, and suggestions are always welcome!
 Let me know if you’d like any refinements! 😊
